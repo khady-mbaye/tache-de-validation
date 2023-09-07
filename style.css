@@ -856,16 +856,21 @@ form{
     }
     .foot1 h1{
         font-size: 26px;
+        
+    }
+    .foot1 a{
+        font-size: 26px;
     }
     .foot3{
         position: relative;
+        
         top: 50px;
-        /* right: 50px; */
+       
     }
     .foot2{
         position: relative;
-        top: 110px;
-        /* right: 50px; */
+        top: 120px;
+       
     }
     .foot1{
         margin: 0 auto;
@@ -876,7 +881,7 @@ form{
     .foot1 p  , .foot2 a , .foot3 a{
         text-align: center;
     }
-    #ancre1 ,.sec1 , .sec2 , .sec3 , .sec4 , .sec5 , .sec6 , .sec7 , .sec8 , .sec9 {
+    .sec2 , .sec3 , .sec4 , .sec5 , .sec6 , .sec7 , .sec8 , .sec9 {
         margin-bottom: 20px;
         margin-top: 20px;
     }
